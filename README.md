@@ -31,7 +31,7 @@ This website is meant to be viewed in a web browser.
 
 ## Authors
 
-* **<David Kupchenko>**
+* **David Kupchenko**
 
 ## License
 
