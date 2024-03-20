@@ -6,7 +6,7 @@ This is a sample website built using HTML and CSS.
 
 To get a local copy of this website, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/<username>/<repository_name>.git`
+1. Clone this repository using `https://github.com/Davadim/Lab_1-web_developing.github.io`
 2. Navigate to the project directory using `cd <repository_name>`
 3. Open the `index.html` file in a web browser
 
